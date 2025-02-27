@@ -14,11 +14,11 @@ I'm passionate about offensive security and secure API development. My goal is t
 ## 📫 Connect With Me
 
 *   **GitHub:** [github.com/abh0x1](github.com/abh0x1)
-*   **LinkedIn:** [linkedin.com/in/abh0x1](https://www.linkedin.com/in/abh0x1kr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) *(Remember to replace with your actual LinkedIn profile link!)*
+*   **LinkedIn:** [linkedin.com/in/abh0x1](https://www.linkedin.com/in/abh0x1kr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ## ⚡️ Current Focus
 
-I'm currently focusing on [mention a specific area within pentesting or API security you're learning, e.g., "OWASP API Security Top 10,"  "Web Application Penetration Testing," or "Mobile API Security"].
+I'm currently focusing on Pentesting and exploring API Development. 
 
 ## Let's Connect!
 
