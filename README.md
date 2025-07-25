@@ -1,25 +1,40 @@
+
+---
+
 # 🚀 abh0x1
 
-Welcome to my GitHub profile! I'm exploring the exciting world of 🔍 **pentesting** and 🔐 **API security**, focusing on practical skills and real-world security challenges. This repository houses my projects and the tools/scripts I develop along the way.
+Just a **techie** exploring systems, code & real-world problems.
 
-## 🛠️ What You'll Find Here
+---
 
-*   **API Security Projects:** Hands-on projects focused on testing and securing APIs, covering various aspects like authentication, authorization, and input validation.
-*   **Tools & Scripts:**  Small, helpful tools and scripts I develop to automate tasks, explore vulnerabilities, or enhance my learning process in pentesting and API security.
+## 🧰 What I Build
 
-## 👨‍💻 About Me
+* 🕵️‍♂️ **Fraud Investigation Tools**
+* 🐍 **Flask & Django** backend apps
+* 🧪 Mini projects around **basic pentesting** and automation
 
-I'm passionate about offensive security and secure API development. My goal is to continuously improve my skills in pentesting methodologies and API security testing through hands-on experience and a thirst for knowledge. I believe in learning by doing and sharing my projects with the community.
+---
 
-## 📫 Connect With Me
+## 🙋‍♂️ About
 
-*   **GitHub:** [github.com/abh0x1](github.com/abh0x1)
-*   **LinkedIn:** [linkedin.com/in/abh0x1](https://www.linkedin.com/in/abh0x1kr?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Curious by nature. I enjoy learning through building — whether it's detecting anomalies, securing flows, or crafting Python backends. Focused on practical skills and small wins that stack up.
 
-## ⚡️ Current Focus
+---
 
-I'm currently focusing on Pentesting and exploring API Development. 
+## 🔗 Connect
 
-## Let's Connect!
+* 🌐 [GitHub](https://github.com/abh0x1)
+* 💼 [LinkedIn](https://www.linkedin.com/in/abh0x1kr)
 
-I'm always open to collaborating and discussing security-related topics. Feel free to reach out! 🚀🔒
+---
+
+## 🎯 Current Focus
+
+Python backend • Digital fraud cases • Practical security
+
+---
+
+Always open to explore, discuss, or build together. 🚀
+
+---
+
